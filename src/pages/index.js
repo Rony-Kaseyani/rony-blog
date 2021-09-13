@@ -10,6 +10,12 @@ const index = () => {
         <p>
           <Link to="/account">My Account</Link>
         </p>
+        <p>
+          <Link to="/about">About</Link>
+        </p>
+        <p>
+          <Link to="/contact">Contact</Link>
+        </p>
       </p>
     </>
   )
