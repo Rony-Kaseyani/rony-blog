@@ -11,6 +11,9 @@ const index = () => {
           <Link to="/account">My Account</Link>
         </p>
         <p>
+          <p>
+            <Link to="/gallery">Gallery</Link>
+          </p>
           <Link to="/about">About</Link>
         </p>
         <p>
